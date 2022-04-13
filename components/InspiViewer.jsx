@@ -43,7 +43,7 @@ export function Inspi360Viewer() {
         />
       </div>
 
-      <script src="https://d32ejwm21y7koy.cloudfront.net/inspi/1.1/inspi-viewer.js" />
+      <script src="https://d32ejwm21y7koy.cloudfront.net/city-furniture/1.3/inspi-viewer.js" />
 
       <button
         onClick={() => {
